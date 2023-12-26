@@ -1,0 +1,3 @@
+Placa,Transmision,Color,Marca,Modelo,Capacidad,NombreEstado,FechaInicioEstado,FechaDispEstado,NombreCategoria,NombreSede
+xyz123,Manual,Negro,Porsche,911,2,Disponible,,,Premium,Alcala
+abc123,Automatico,Rojo,Mazda,Rx7,2,Alquilado,2023-10-10 10:00,2023-11-11 10:00,Premium,Prado
